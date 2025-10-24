@@ -28,7 +28,6 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
