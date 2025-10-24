@@ -33,18 +33,6 @@
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 </div>
 
----
-
-## 📦 Projects Showcase
-
-| Project | Description | Links |
-|--------|-------------|-------|
-| **Interpreter** | Handcrafted language pipeline (lexer → parser → AST → evaluator) | <a href="https://github.com/akurkar07/Interpreter" target="_blank">Repo</a> |
-| **Neural Network** | Feed-forward neural network implemented from scratch | <a href="https://github.com/akurkar07/Neural-Network" target="_blank">Repo</a> |
-| **Trading Bots (Legacy)** | Simple automation and helper utilities | <a href="https://github.com/akurkar07/Trading-Bots" target="_blank">Repo</a> |
-
----
-
 ## 🌐 Reach Me
 
 - GitHub: <a href="https://github.com/akurkar07" target="_blank">github.com/akurkar07</a>  
