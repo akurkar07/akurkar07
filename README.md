@@ -5,10 +5,10 @@
 ## Alex Kurkar
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akurkar07&hide_border=true&theme=default">
 
-**Who am I?**
+**About Me**
 
 - Student @ UoN
-- Interested in Computer Science, Mathematics, Programming and ML
+- Studying Computer Science, Mathematics, Programming and ML
 - Currently experimenting with interpreters and compiler theory
 - Created Digit Classification Neural Network and Trading Bots from scratch
 - Based in the United Kingdom
