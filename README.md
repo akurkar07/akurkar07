@@ -3,6 +3,7 @@
 </p>
 
 ## Hey there! 👋
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akurkar07&hide_border=true&theme=default">
 
 **My name is Alex Kurkar**
 
@@ -16,7 +17,7 @@
 > *(recursive-descent parser → AST → evaluator)*  
 > 👉 <a href="https://github.com/akurkar07/Interpreter" target="_blank">Interpreter Repo</a>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akurkar07&hide_border=true&theme=default">
+
 
 ---
 
@@ -32,13 +33,3 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 </div>
-
-## 🌐 Reach Me
-
-- GitHub: <a href="https://github.com/akurkar07" target="_blank">github.com/akurkar07</a>  
-- LinkedIn: <a href="https://linkedin.com/in/alex-kurkar/" target="_blank">linkedin.com/in/alex-kurkar</a>
-
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/akurkar07)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-kurkar/)
-
-![visitors](https://komarev.com/ghpvc/?username=akurkar07&style=flat-square&color=8A3FFC)
