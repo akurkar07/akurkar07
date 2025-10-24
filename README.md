@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Alex+Kurkar;I+like+building+things+from+scratch!" />
 </p>
 
-## Hey there! 👋
+## Alex Kurkar
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akurkar07&hide_border=true&theme=default">
 
-**My name is Alex Kurkar**
+**Who am I?**
 
 - Student @ UoN
 - Interested in Computer Science, Mathematics, Programming and ML
