@@ -3,7 +3,8 @@
 </p>
 
 ## Alex Kurkar
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akurkar07&hide_border=true&theme=default">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akurkar07&hide_border=true&background=0D1117&ring=8A3FFC&fire=8A3FFC&currStreakNum=FFFFFF&currStreakLabel=8A3FFC&sideNums=FFFFFF&sideLabels=8A3FFC&dates=7F7F7F">
+
 
 **About Me**
 
