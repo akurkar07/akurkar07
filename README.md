@@ -7,8 +7,8 @@
 
 **About Me**
 
-- Student @ UoN
-- Studying Computer Science, Mathematics, Programming and ML
+- Computer Science Student @ UoN
+- Interested in Mathematics, Programming and ML
 - Currently experimenting with interpreters and compiler theory
 - Created Digit Classification Neural Network and Trading Bots from scratch
 - Based in the United Kingdom
