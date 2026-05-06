@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=I'm+Alex+Kurkar;Simplicity+is+the+soul+of+efficiency" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=
+    I'm+Alex+Kurkar;
+    Simplicity+is+the+soul+of+efficiency;
+    Deleted+code+is+debugged+code"
+  />
 </p>
 
 ## Alex Kurkar
