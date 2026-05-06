@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=I'm+Alex+Kurkar;Code+is+poetry+in+motion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=I'm+Alex+Kurkar;Poetry,+compiled." />
 </p>
 
 ## Alex Kurkar
