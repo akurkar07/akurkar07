@@ -20,14 +20,14 @@
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Tools & Languages
 
-<div>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
-  <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" alt="Haskell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+</p>
