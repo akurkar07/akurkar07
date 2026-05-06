@@ -8,14 +8,14 @@
 
 **About Me**
 
-- Computer Science Student @ UoN
-- Interested in Mathematics, Programming and ML
-- Currently experimenting with interpreters and compiler theory
-- Created Digit Classification Neural Network and Trading Bots from scratch
-- Based in the United Kingdom
+- Computer Science student @ UoN  
+- Focused on **compilers, interpreters, and language design**  
+- Strong interest in **mathematics + low-level systems**  
+- Build projects from first principles (no frameworks where possible)  
+- Based in the United Kingdom  
 
-> 🎯 **Current main project:** improving and refining my **Interpreter**  
-> *(recursive-descent parser → AST → evaluator)*  
+> 🎯 **Current focus:** designing and implementing language runtimes from scratch  
+> *(parsing → AST construction → evaluation → optimisation)*  
 > 👉 <a href="https://github.com/akurkar07/Interpreter" target="_blank">Interpreter Repo</a>
 
 ---
@@ -23,11 +23,16 @@
 ## 💻 Tools & Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" alt="Haskell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
+  <img src="https://cdn.simpleicons.org/arm/0091BD" height="50" />
 </p>
+
+---
+
+> “Talk is cheap. Show me the code.” — Linus Torvalds
