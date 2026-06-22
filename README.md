@@ -33,6 +33,10 @@
   <img src="https://cdn.simpleicons.org/arm/0091BD" height="50" />
 </p>
 
----
-
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ycaptain/ycaptain/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ycaptain/ycaptain/output/github-contribution-grid-snake.svg" />
+    <img alt="ycaptain's contribution graph as a snake animation" src="https://raw.githubusercontent.com/ycaptain/ycaptain/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
