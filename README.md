@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=I'm+Alex+Kurkar;Simplicity+is+the+soul+of+efficiency;Deleted+code+is+debugged+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=600&color=8A3FFC&center=true&vCenter=true&width=650&lines=I'm+Alex+Kurkar;Simplicity+is+the+soul+of+efficiency;Deleted+code+is+debugged+code;Build+from+first+principles" />
 </p>
+
+---
 
 ## Alex Kurkar
 
@@ -8,29 +10,24 @@
 
 **About Me**
 
-- Computer Science student @ UoN  
-- Focused on **compilers, interpreters, and language design**  
-- Strong interest in **mathematics + low-level systems**  
-- Build projects from first principles (no frameworks where possible)  
-- Based in the United Kingdom  
+- CS student @ University of Nottingham
+- Focused on **compilers, interpreters, and language design**
+- Strong interest in **mathematics + low-level systems**
+- Build projects from first principles — no frameworks where avoidable
+- Hackathon competitor and solo builder
+- Based in the United Kingdom
 
-> 🎯 **Current focus:** designing and implementing language runtimes from scratch  
-> *(parsing → AST construction → evaluation → optimisation)*  
+> 🎯 **Currently building:** language runtimes from scratch
+> *(lexing → parsing → AST → evaluation → optimisation)*
 > 👉 <a href="https://github.com/akurkar07/Interpreter" target="_blank">Interpreter Repo</a>
 
 ---
 
-## 💻 Tools & Languages
+## 📊 Stats
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" />
-  <img src="https://cdn.simpleicons.org/arm/0091BD" height="50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akurkar07&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A3FFC&icon_color=8A3FFC&text_color=FFFFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurkar07&layout=compact&hide_border=true&bg_color=00000000&title_color=8A3FFC&text_color=FFFFFF" height="150" />
 </p>
 
 <div align="center">
