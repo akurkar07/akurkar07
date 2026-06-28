@@ -13,8 +13,7 @@
 - CS student @ University of Nottingham
 - Focused on **compilers, interpreters, and language design**
 - Strong interest in **mathematics + low-level systems**
-- Build projects from first principles — no frameworks where avoidable
-- Hackathon competitor and solo builder
+- Build projects from first principles, no frameworks where avoidable
 - Based in the United Kingdom
 
 > 🎯 **Currently building:** language runtimes from scratch
