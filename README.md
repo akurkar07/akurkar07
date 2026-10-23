@@ -1,6 +1,6 @@
 ## Alex Kurkar
 
-CS student at the University of Nottingham. I build software and then measure whether it works.
+CS student at the University of Nottingham.
 
 **Projects**
 
